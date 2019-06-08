@@ -1,2 +1,2 @@
-# Counsellors-Data-Website
-This website basically manages the data of students of college.
+# Counselor-s-Data-Website
+Counselor's data dynamic website for college
